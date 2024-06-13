@@ -1,0 +1,896 @@
+[
+    {
+        "tag": "Zechenpark",
+        "date": "2022-04-07 10:35:10+00",
+        "notes": "Test Eintrag ",
+        "taxon": "Aubrieta deltoidea",
+        "images": [
+            "694e3daf460654f12899196c636017a2.jpg"
+        ],
+        "answers": {
+            "location": 2
+        },
+        "altitude": 24.299999237061,
+        "latitude": 51.495598975057,
+        "longitude": 6.5239148667292
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-04-23 10:38:46+00",
+        "notes": "A\n30-40%",
+        "taxon": "Anthoxanthum odoratum agg.",
+        "images": [
+            "04c29676ae03eca2f5435571d8d35a03.jpg",
+            "d865875cd092d9de85835ec53619ffbb.jpg",
+            "91df4e5d9de261877e010d474bd1a4ee.jpg",
+            "81ecbb05df846844aaffc0c114738961.jpg"
+        ],
+        "answers": {
+            "location": 1
+        },
+        "altitude": 28.378284454346,
+        "latitude": 51.497744959314,
+        "longitude": 6.5501556539681
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-04-23 10:47:11+00",
+        "notes": "A\n30->40%",
+        "taxon": "Anthoxanthum odoratum agg.",
+        "images": [
+            "57235806f277ad54c5f4479f82f4dfc0.jpg",
+            "a063a03f9bfced77e9288b28c1da68b7.jpg",
+            "5c107acdccaeda61111d12ade50044f3.jpg"
+        ],
+        "answers": {
+            "location": 1
+        },
+        "altitude": 20.110999298096,
+        "latitude": 51.497345066078,
+        "longitude": 6.5499445281246
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-04-23 10:52:12+00",
+        "notes": "A\n5%",
+        "taxon": "Plantago lanceolata",
+        "images": [
+            "a4e1ca87307d32a507e24ed07f8cd9cc.jpg",
+            "37025ed865d776764492c40f5c6e8acc.jpg",
+            "0f36a0001c5e4908ecee42d42914080b.jpg",
+            "d3057d3c7c46031fe840e22619360f0a.jpg",
+            "bcfab315625fbc3f708efad00ad8870d.jpg"
+        ],
+        "answers": {
+            "location": 1
+        },
+        "altitude": 26.623275555679,
+        "latitude": 51.497300682346,
+        "longitude": 6.5499716919375
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-04-23 11:09:11+00",
+        "notes": "A\n20% Vor allem an den Rändern \nweniger mitten drin",
+        "taxon": "Trifolium repens",
+        "images": [
+            "4517f130ea2f08fb68a54b8eb1baf221.jpg",
+            "ce6467872f1e6810406de8c836fe3251.jpg"
+        ],
+        "answers": {
+            "location": 1
+        },
+        "altitude": 28.379835128784,
+        "latitude": 51.497842950631,
+        "longitude": 6.5495966483472
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-04-23 11:13:50+00",
+        "notes": "A\n7->10%\nAnfangsstadium \nnoch nicht am Blühen\n",
+        "taxon": "Leucanthemum vulgare agg.",
+        "images": [
+            "44f7af309f9ee7733c989eed33bb2b4b.jpg",
+            "3459d4842dc2deb7803f102d059f8554.jpg",
+            "228564b5c9663a56c0f452e457fa65c1.jpg",
+            "98cb2f7360d94d29d9d6367f99adfe1c.jpg",
+            "1fc70625f9205e9164dce9df5c510be9.jpg"
+        ],
+        "answers": {
+            "location": 1
+        },
+        "altitude": 28.459203720093,
+        "latitude": 51.497599217212,
+        "longitude": 6.5501568553656
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-04-23 11:23:16+00",
+        "notes": "",
+        "taxon": "Anthoxanthum odoratum agg.",
+        "images": [
+            "3e5566fe54e180094b02971215a305d2.jpg",
+            "e293091932cf6ba2cd69feb01d4f7696.jpg",
+            "9ff3140cf925996a2027e7e186d2aa99.jpg"
+        ],
+        "answers": {
+            "location": 1
+        },
+        "altitude": 20.110999298096,
+        "latitude": 51.497246247992,
+        "longitude": 6.5499736326793
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-04-23 11:33:04+00",
+        "notes": "A\nWahrscheinlich eine Vogelwicke\nbis jetzt nicht blühend\n10<-15% in Bünden vorhanden",
+        "taxon": "Unknown species",
+        "images": [
+            "e9c02dfc4c756ab7a6dca68a40f449d0.jpg",
+            "f4caa8a002305ace160d012ec0f7aa0c.jpg",
+            "d0210a722e4aa6834e86d89a358e375b.jpg"
+        ],
+        "answers": {
+            "location": 1
+        },
+        "altitude": 28.378307342529,
+        "latitude": 51.497689032951,
+        "longitude": 6.5500934135566
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-04-23 12:40:56+00",
+        "notes": "",
+        "taxon": "Silene dioica",
+        "images": [
+            "73441b1adeafc02d61c9877719cb0a3a.jpg"
+        ],
+        "answers": null,
+        "altitude": 29.014206767497,
+        "latitude": 51.496631109326,
+        "longitude": 6.5488145212172
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-04-23 12:43:11+00",
+        "notes": "",
+        "taxon": "Tulipa gesneriana",
+        "images": [
+            "f658de6a71490a30d2e289097a4f1848.jpg",
+            "aa093ad06d84433a8e1c7bfd74df52cb.jpg",
+            "4dba708eee0273df1c614c5c66f4e0ba.jpg"
+        ],
+        "answers": null,
+        "altitude": 20.832423400879,
+        "latitude": 51.49660436181,
+        "longitude": 6.5488761190839
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-04-27 13:40:50+00",
+        "notes": "near the dorms\n",
+        "taxon": "Sorbus aucuparia",
+        "images": [
+            "03a035e40f06fb4736beb7fc23ab44fc.jpg"
+        ],
+        "answers": null,
+        "altitude": 71.099998474121,
+        "latitude": 51.4995159,
+        "longitude": 6.5459807
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-04-27 13:43:47+00",
+        "notes": "",
+        "taxon": "Cardamine pratensis agg.",
+        "images": [
+            "add9cda893b7b9ad8d26958cfca41790.jpg",
+            "d67d5dd864d6d7901aa1d6d4814203c4.jpg",
+            "65a5432b676d3cd03bcb710f95d89ca9.jpg"
+        ],
+        "answers": null,
+        "altitude": 70.900001525879,
+        "latitude": 51.4994152,
+        "longitude": 6.5461058
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-04-27 13:46:49+00",
+        "notes": "",
+        "taxon": "Glechoma hederacea agg.",
+        "images": [
+            "178d1cdd159cc17dc5280c370ef18a77.jpg"
+        ],
+        "answers": null,
+        "altitude": 70.900001525879,
+        "latitude": 51.4994015,
+        "longitude": 6.5461567
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-04-27 13:47:57+00",
+        "notes": "",
+        "taxon": "Symphytum officinale agg.",
+        "images": [
+            "1aff78cb392047d3f4f827728855c073.jpg"
+        ],
+        "answers": null,
+        "altitude": 73.200004577637,
+        "latitude": 51.4993907,
+        "longitude": 6.5463487
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-04-27 13:48:35+00",
+        "notes": "",
+        "taxon": "Symphytum officinale agg.",
+        "images": [
+            "318c755f85ea36490443db2e7a8e5d78.jpg",
+            "ff8d0b96e8a9e9183bb610bd74e909cc.jpg"
+        ],
+        "answers": null,
+        "altitude": 72.300003051758,
+        "latitude": 51.4993948,
+        "longitude": 6.5462389
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-04-27 13:49:43+00",
+        "notes": "",
+        "taxon": "Alliaria petiolata",
+        "images": [
+            "a385c8b01039a7623d9adbe123c43862.jpg"
+        ],
+        "answers": null,
+        "altitude": 73.400001525879,
+        "latitude": 51.4994164,
+        "longitude": 6.5463416
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-04-27 13:50:12+00",
+        "notes": "",
+        "taxon": "Alliaria petiolata",
+        "images": [
+            "161f4a4390aab5d31ffa04e806ab39d7.jpg"
+        ],
+        "answers": null,
+        "altitude": 71.300003051758,
+        "latitude": 51.4994283,
+        "longitude": 6.5464091
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-04-27 13:54:09+00",
+        "notes": "",
+        "taxon": "Capsella bursa-pastoris",
+        "images": [
+            "2a8a4504fa8c47b31cb1ac612b5cc4c2.jpg"
+        ],
+        "answers": null,
+        "altitude": 73.300003051758,
+        "latitude": 51.499627,
+        "longitude": 6.5473922
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-04-27 13:58:51+00",
+        "notes": "",
+        "taxon": "Leucanthemum vulgare agg.",
+        "images": [
+            "9dc40f4944a645e7cef37b944359cfc4.jpg"
+        ],
+        "answers": null,
+        "altitude": 71.300003051758,
+        "latitude": 51.4991194,
+        "longitude": 6.5478479
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-04-27 14:01:28+00",
+        "notes": "",
+        "taxon": "Tulipa sylvestris",
+        "images": [
+            "8f03f902b0b8fb912417cef61bdf995c.jpg",
+            "94cf45290b327494e8035fafadd365c0.jpg",
+            "ce15bd822d733ff48de4057cf75c5caf.jpg"
+        ],
+        "answers": null,
+        "altitude": 73.5,
+        "latitude": 51.4990331,
+        "longitude": 6.5486872
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-04-27 14:06:01+00",
+        "notes": "",
+        "taxon": "Allium nigrum",
+        "images": [
+            "7cbf797400cc564904bb187d323e8e70.jpg",
+            "32c8db22aa93ac06244adb3354cd1b9a.jpg",
+            "1071d11ffa4758160015e87927d02a57.jpg"
+        ],
+        "answers": null,
+        "altitude": 73.599998474121,
+        "latitude": 51.4973561,
+        "longitude": 6.548016
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-04-27 14:07:15+00",
+        "notes": "",
+        "taxon": "Medicago lupulina",
+        "images": [
+            "e46593f43a1c8926fd7242310bbdeaed.jpg"
+        ],
+        "answers": null,
+        "altitude": 73.400001525879,
+        "latitude": 51.4987028,
+        "longitude": 6.5486298
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-04-27 14:10:13+00",
+        "notes": "",
+        "taxon": "Cytisus scoparius",
+        "images": [
+            "71dda3f9c525f99572bb555ffaa0f262.jpg",
+            "a9b1adc789a3323f0768ee3c4f0753dd.jpg"
+        ],
+        "answers": null,
+        "altitude": 72.400001525879,
+        "latitude": 51.4987379,
+        "longitude": 6.549867
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-04-27 14:15:06+00",
+        "notes": "",
+        "taxon": "Crataegus monogyna",
+        "images": [
+            "b6d54a3f76950c41f70e81627a272861.jpg"
+        ],
+        "answers": null,
+        "altitude": 73.300003051758,
+        "latitude": 51.4977847,
+        "longitude": 6.5495522
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-04-27 14:23:43+00",
+        "notes": "",
+        "taxon": "Silene dioica",
+        "images": [
+            "08d5e7cd8af8b93b761db8e28f13a166.jpg"
+        ],
+        "answers": null,
+        "altitude": 73.200004577637,
+        "latitude": 51.4998651,
+        "longitude": 6.546748
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-04-27 14:24:28+00",
+        "notes": "",
+        "taxon": "Plantago lanceolata",
+        "images": [
+            "8967ea15a085a11f97db4715b86b538a.jpg"
+        ],
+        "answers": null,
+        "altitude": 73.800003051758,
+        "latitude": 51.4960362,
+        "longitude": 6.5485432
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-04-27 14:25:31+00",
+        "notes": "",
+        "taxon": "Isatis tinctoria agg.",
+        "images": [
+            "01908be0b994f86cbc7fcc1ee649480c.jpg"
+        ],
+        "answers": null,
+        "altitude": 73.800003051758,
+        "latitude": 51.4961606,
+        "longitude": 6.5483217
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-04-27 14:28:08+00",
+        "notes": "",
+        "taxon": "Veronica persica",
+        "images": [
+            "32aaf1cd631098e14aa6cf4407dfb47f.jpg"
+        ],
+        "answers": null,
+        "altitude": 73.700004577637,
+        "latitude": 51.4967705,
+        "longitude": 6.5484199
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-04-27 14:31:06+00",
+        "notes": "",
+        "taxon": "Crepis biennis",
+        "images": [
+            "e0120b3306a7827c85900e0038c3e891.jpg",
+            "6a936f0c6858bc624da9e7d542cf1417.jpg"
+        ],
+        "answers": null,
+        "altitude": 73.800003051758,
+        "latitude": 51.4961457,
+        "longitude": 6.548201
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-04-27 14:36:01+00",
+        "notes": null,
+        "taxon": "Tulipa gesneriana",
+        "images": [
+            "0cacc438f3d77d3cb8f5cf7134df1944.jpg",
+            "be28a9a54600a0d8848024ff545c8aac.jpg",
+            "09bf2e13c14e4f616f6a1b9f54efc761.jpg"
+        ],
+        "answers": null,
+        "altitude": 73.800003051758,
+        "latitude": 51.4970652,
+        "longitude": 6.547808
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-04-27 14:40:50+00",
+        "notes": "",
+        "taxon": "Vicia sativa agg.",
+        "images": [
+            "4256833fc1c1334c314a3c5a8224422f.jpg"
+        ],
+        "answers": null,
+        "altitude": 73.700004577637,
+        "latitude": 51.4979721,
+        "longitude": 6.5484503
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-04-27 14:43:37+00",
+        "notes": "",
+        "taxon": "Nicotiana tabacum",
+        "images": [
+            "536b3c27596fa2f5489474567368e0e0.jpg",
+            "fa083275558d3f0df9b3b5a4bd77949c.jpg",
+            "004dba8fba74699d3090f2680962880e.jpg"
+        ],
+        "answers": null,
+        "altitude": 72.900001525879,
+        "latitude": 51.4986128,
+        "longitude": 6.547761
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-04-29 12:03:43+00",
+        "notes": null,
+        "taxon": "Taraxacum",
+        "images": [
+            "5f226fc59123ad34d77f4244bbb3fbf8.jpg",
+            "c79bc9f3f05499fc13dc99ce013b7f47.jpg",
+            "d4be93ab70188c1e49d205b7a89350b3.jpg"
+        ],
+        "answers": null,
+        "altitude": 73.400001525879,
+        "latitude": 51.4973257,
+        "longitude": 6.5481098
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-04-29 12:11:09+00",
+        "notes": "",
+        "taxon": "Lolium arundinaceum",
+        "images": [
+            "2b982c022e7001e99a973a7e971e3fd2.jpg",
+            "f3b7734553286333eb8d32e18d3e3561.jpg",
+            "7ca7d05946184e76d5a93ff510f6fc08.jpg"
+        ],
+        "answers": null,
+        "altitude": 73.400001525879,
+        "latitude": 51.4980758,
+        "longitude": 6.548234
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-04-29 12:13:10+00",
+        "notes": "",
+        "taxon": "Sonchus oleraceus",
+        "images": [
+            "b2820f6c6c908c58e69a273e90b5f9c5.jpg",
+            "3e7211ef82085c1a61f53ca45ced32a4.jpg",
+            "e63c0b1bb7595b5d10cf12f6a39f85dd.jpg"
+        ],
+        "answers": null,
+        "altitude": 73.5,
+        "latitude": 51.4983614,
+        "longitude": 6.5477024
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-04-29 12:14:31+00",
+        "notes": "",
+        "taxon": "Reseda lutea",
+        "images": [
+            "3b169579500e74ec4e28fe66c7fccc5f.jpg"
+        ],
+        "answers": null,
+        "altitude": 73.400001525879,
+        "latitude": 51.4972717,
+        "longitude": 6.548049
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-04-29 12:15:43+00",
+        "notes": "",
+        "taxon": "Salvia pratensis",
+        "images": [
+            "60264e987647a8c4313b8ccfe3451278.jpg",
+            "5929be150f2f35f33dca851179248b9a.jpg",
+            "2376ccc9047c187fd35e7599a3ed5196.jpg"
+        ],
+        "answers": null,
+        "altitude": 75.300003051758,
+        "latitude": 51.4993623,
+        "longitude": 6.5465865
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-04-29 12:24:37+00",
+        "notes": "",
+        "taxon": "Myosotis arvensis",
+        "images": [
+            "8e669b63bb40206e7ac724eba396be1b.jpg",
+            "293bf96f746480ca83340d6949f2716f.jpg",
+            "b88ff4b406ac4ed2d3c3a0914932127d.jpg"
+        ],
+        "answers": null,
+        "altitude": 73.5,
+        "latitude": 51.4988824,
+        "longitude": 6.548641
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-04-29 12:35:07+00",
+        "notes": "",
+        "taxon": "Geranium molle agg.",
+        "images": [
+            "2369e965ec3ffa30e49f64bc4d562282.jpg",
+            "4043e6ba7353f3991703ea9ec704082e.jpg",
+            "ac972b3bbd17139aa4276a9aa827231c.jpg"
+        ],
+        "answers": null,
+        "altitude": 73.300003051758,
+        "latitude": 51.4987439,
+        "longitude": 6.5485127
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-05-03 09:48:34+00",
+        "notes": "",
+        "taxon": "Leucanthemum vulgare agg.",
+        "images": [
+            "51b8876a5da7f428d1eb43200cc278e4.jpg"
+        ],
+        "answers": null,
+        "altitude": 29.229467391968,
+        "latitude": 51.493629337886,
+        "longitude": 6.547987179413
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-05-03 09:53:09+00",
+        "notes": "",
+        "taxon": "Cytisus scoparius",
+        "images": [
+            "025a96d3941ca9321782210469178e3d.jpg"
+        ],
+        "answers": null,
+        "altitude": 26.81160376343,
+        "latitude": 51.493872153478,
+        "longitude": 6.5483426164838
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-05-03 09:59:56+00",
+        "notes": "eco-gravel ",
+        "taxon": "Leucanthemum vulgare agg.",
+        "images": [
+            "47024b6d45a19f042dadf4e57e3150a0.jpg"
+        ],
+        "answers": null,
+        "altitude": 29.259119226431,
+        "latitude": 51.494525999922,
+        "longitude": 6.5487706742077
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-05-09 11:42:13+00",
+        "notes": "Wiese IV\n\n",
+        "taxon": "Crepis biennis",
+        "images": [
+            "f5803fb1bef3ba6c5a80b08ff4d1f8aa.jpg",
+            "1d9294d5354a956468dbade5aba46ddc.jpg",
+            "0b345f1fc213b91e9cac534b51b216de.jpg"
+        ],
+        "answers": {
+            "location": 2
+        },
+        "altitude": 72.700004577637,
+        "latitude": 51.4971619,
+        "longitude": 6.5510649
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-05-10 09:48:50+00",
+        "notes": "Promenade Süd",
+        "taxon": "Geranium robertianum agg.",
+        "images": [
+            "9ee301258b21919102f4f331c7ab20db.jpg"
+        ],
+        "answers": {
+            "location": 0
+        },
+        "altitude": 72.599998474121,
+        "latitude": 51.4891808,
+        "longitude": 6.5483741
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-05-11 11:00:26+00",
+        "notes": "B 5-6",
+        "taxon": "Silene dioica",
+        "images": [
+            "3082b25aba5dcf5bb35f76a5638c8272.jpg"
+        ],
+        "answers": {
+            "location": 1
+        },
+        "altitude": 73.5,
+        "latitude": 51.4969275,
+        "longitude": 6.5477711
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-05-11 11:08:24+00",
+        "notes": "",
+        "taxon": "Isatis tinctoria agg.",
+        "images": [
+            "795e479855c10bf2393468b9034b5b77.jpg"
+        ],
+        "answers": {
+            "location": 1
+        },
+        "altitude": 73.599998474121,
+        "latitude": 51.4970414,
+        "longitude": 6.5477608
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-05-11 11:11:01+00",
+        "notes": "5-6",
+        "taxon": "Bunias orientalis",
+        "images": [
+            "965b8becd3ece961fea00313637b8a53.jpg"
+        ],
+        "answers": null,
+        "altitude": null,
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-05-11 14:19:54+00",
+        "notes": null,
+        "taxon": "Platanus occidentalis",
+        "images": [
+            "af1d7928e54beb9ac709429d0695c0a4.jpg",
+            "9ce3ad263daa661e975c683a8c2bf18f.jpg",
+            "5263ca2ba703bc13aac94c83627ed8ad.jpg"
+        ],
+        "answers": null,
+        "altitude": 70.900001525879,
+        "latitude": 51.4994914,
+        "longitude": 6.5460911
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-05-12 09:02:22+00",
+        "notes": "Boolplatz",
+        "taxon": "Bunias orientalis",
+        "images": [
+            "bc3490cf9a55f87d7fe17f133a7d999d.jpg"
+        ],
+        "answers": {
+            "location": 2
+        },
+        "altitude": 73.599998474121,
+        "latitude": 51.4922433,
+        "longitude": 6.5511966
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-05-12 09:07:23+00",
+        "notes": "Gs BLumen Rasen süd",
+        "taxon": "Vicia hirsuta",
+        "images": [
+            "7da5bc75dc562ad7821ce562c3c7d2d7.jpg"
+        ],
+        "answers": {
+            "location": 2
+        },
+        "altitude": 73.200004577637,
+        "latitude": 51.4920536,
+        "longitude": 6.5510424
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-05-12 09:11:03+00",
+        "notes": "",
+        "taxon": "Salvia pratensis",
+        "images": [
+            "8585f5d85fa11b2eb93aee9b765bd865.jpg"
+        ],
+        "answers": {
+            "location": 2
+        },
+        "altitude": 73.300003051758,
+        "latitude": 51.4920678,
+        "longitude": 6.5511306
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-05-12 09:11:48+00",
+        "notes": "",
+        "taxon": "Hypochaeris radicata",
+        "images": [
+            "641a345d6027bd31a5617ecf7b4324de.jpg",
+            "1ffc84fc2714bae2a7973d6991c014e3.jpg",
+            "1763411d990b12ab95f1e64f5c72d0db.jpg",
+            "6bcf91c0930e48c1eb5474897e85bddb.jpg"
+        ],
+        "answers": {
+            "location": 2
+        },
+        "altitude": 73.300003051758,
+        "latitude": 51.4925605,
+        "longitude": 6.5514367
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-05-12 09:13:39+00",
+        "notes": "Gs  br süd",
+        "taxon": "Leontodon hispidus",
+        "images": [
+            "195cc44a838bac0cdc3033b6635ae792.jpg",
+            "823138a953d2479a92a6bce5670287e9.jpg",
+            "ae96245e9625b9586052c4f50a1269a1.jpg"
+        ],
+        "answers": {
+            "location": 2
+        },
+        "altitude": 72.900001525879,
+        "latitude": 51.4918805,
+        "longitude": 6.5513936
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-05-16 09:57:05+00",
+        "notes": null,
+        "taxon": "Unknown species",
+        "images": [
+            "a76a429c05a2185bb5ec7b06b5943751.jpg",
+            "066b16b82c02acca83b65a18aed1315e.jpg"
+        ],
+        "answers": {
+            "location": 1
+        },
+        "altitude": 72.599998474121,
+        "latitude": 51.4977458,
+        "longitude": 6.5489333
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-05-25 10:22:47+00",
+        "notes": "Wiesen",
+        "taxon": "Leucanthemum vulgare agg.",
+        "images": [
+            "1f58434452c665be33716c2560933011.jpg"
+        ],
+        "answers": {
+            "location": 2
+        },
+        "altitude": 73.400001525879,
+        "latitude": 51.4988178,
+        "longitude": 6.5490003
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-05-25 10:24:24+00",
+        "notes": "Wiese",
+        "taxon": "Vicia villosa",
+        "images": [
+            "3608bd0503d6055f614fadc7173b7c9d.jpg"
+        ],
+        "answers": {
+            "location": 2
+        },
+        "altitude": 73.700004577637,
+        "latitude": 51.4988785,
+        "longitude": 6.5490875
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-05-25 11:34:53+00",
+        "notes": "B\n50%",
+        "taxon": "Leucanthemum vulgare agg.",
+        "images": [
+            "1f122a3021570ef5aedeec9df40f550a.jpg"
+        ],
+        "answers": {
+            "location": 1
+        },
+        "altitude": -500,
+        "latitude": 51.495365496022,
+        "longitude": 6.5521074522813
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-05-27 13:10:19+00",
+        "notes": "QUARTIERSPLATZ",
+        "taxon": "Eschscholzia californica",
+        "images": [
+            "aa4eaa5d3d046e2d8c76f68bf44b4743.jpg"
+        ],
+        "answers": null,
+        "altitude": 73.900001525879,
+        "latitude": 51.494469,
+        "longitude": 6.5469965
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-05-27 13:12:11+00",
+        "notes": null,
+        "taxon": "Malva sylvestris",
+        "images": [
+            "cdd7a6578219542085389bba6579784d.jpg"
+        ],
+        "answers": null,
+        "altitude": 73.900001525879,
+        "latitude": 51.4944727,
+        "longitude": 6.5470489
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-05-31 11:50:42+00",
+        "notes": "Goorley",
+        "taxon": "Onobrychis viciifolia agg.",
+        "images": [
+            "634057a0cffd1ff71c17db8f118fe599.jpg"
+        ],
+        "answers": {
+            "location": 2
+        },
+        "altitude": 73.400001525879,
+        "latitude": 51.4972557,
+        "longitude": 6.5505328
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2022-05-31 11:55:35+00",
+        "notes": "Bieneneldorado",
+        "taxon": "Tragopogon pratensis",
+        "images": [
+            "782061fcf9797c4f86199d1522731877.jpg"
+        ],
+        "answers": {
+            "location": 2
+        },
+        "altitude": 73,
+        "latitude": 51.4976473,
+        "longitude": 6.5499572
+    }
+]

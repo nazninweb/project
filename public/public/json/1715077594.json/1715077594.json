@@ -1,0 +1,32 @@
+[
+    {
+        "tag": "Zechenpark",
+        "date": "2023-04-13 07:52:41+00",
+        "notes": null,
+        "taxon": "Primula veris",
+        "images": [
+            "8cdb1cbd8e421ae2934b1a32ff8749c6.jpg"
+        ],
+        "answers": {
+            "location": 2
+        },
+        "altitude": null,
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "tag": "Zechenpark",
+        "date": "2023-04-17 11:38:59+00",
+        "notes": "Wiese Böschung treppe",
+        "taxon": "Veronica persica",
+        "images": [
+            "a1dcc75a223160a3d93adcdb1256177f.jpg"
+        ],
+        "answers": {
+            "location": 2
+        },
+        "altitude": 73.700004577637,
+        "latitude": 51.4945455,
+        "longitude": 6.5520864
+    }
+]
